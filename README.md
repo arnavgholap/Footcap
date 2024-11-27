@@ -4,7 +4,7 @@
 
   Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://arnavgholap.github.io/Footcap/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
