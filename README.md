@@ -1,6 +1,4 @@
 <div align="center">
-  
- ##**Footcap**
 
 <h2 align="center">Footcap - eCommerce website</h2>
 
